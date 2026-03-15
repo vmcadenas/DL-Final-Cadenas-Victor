@@ -1,7 +1,6 @@
 # DL-Final-Cadenas-Victor
 Predicción de Recuperación de Cobre y Molibdeno en Planta Concentradora
 Proyecto Final – Curso de Deep Learning
-Autor: [Tu Nombre Apellido]
 
 Descripción del Problema
 En operaciones mineras de concentración por flotación, la recuperación metalúrgica es el indicador más crítico de eficiencia del proceso. Una caída en la recuperación de Cobre (Cu) o Molibdeno (Mo) genera pérdidas económicas directas.
